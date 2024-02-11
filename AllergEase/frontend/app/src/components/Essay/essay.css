@@ -1,0 +1,19 @@
+.top {
+    width:100%;
+    height:80%;
+    text-align:center;
+}
+.texbx{
+    font-size:2vh;
+}
+
+.bt {
+    text-align:center;
+}
+
+.comments {
+    line-height:40px;
+    margin-left:5%;
+    margin-right:5%;
+}
+
